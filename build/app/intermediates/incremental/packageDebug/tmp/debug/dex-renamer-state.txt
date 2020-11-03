@@ -1,0 +1,4 @@
+#Tue Nov 03 21:50:27 ICT 2020
+base.0=/Users/inmac/Desktop/bloc_example_demo/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
